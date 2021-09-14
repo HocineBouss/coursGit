@@ -1,1 +1,2 @@
 ceci est un text de main avant et aprés
+ceci est un text de merge-test maintenant
